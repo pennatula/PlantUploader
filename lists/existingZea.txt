@@ -1,0 +1,15 @@
+anthocyanin biosynthesis
+Carbon assimilation C4 pathway
+Carotenoid Biosynthesis
+Lycopene biosynthesis
+Test Pathway
+Thiamine (vitamin B1) biosynthesis and salvage
+very-long-chain-fatty-acid-biosynthesis-delete
+Tutorial pathwayVitamin B1 (thiamin) biosynthesis and salvage pathway
+Vitamin B2 (riboflavin) biosynthesis and conversion to FMN and FAD pathway
+Vitamin B3 (niacin), NAD and NADP biosynthesis pathway
+Vitamin B5 (pantothenate) and CoA biosynthesis Pathway
+Vitamin B6 (pyridoxine, pyridoxal, pyridoxamine) biosynthesis and salvage pathway
+Vitamin B7 (biotin) biosynthesis pathway
+Vitamin B9 (folate) biosynthesis pathway
+

@@ -1,0 +1,89 @@
+Translation
+fructan biosynthesis
+biotin biosynthesis II
+Fatty acids and lipids biosyntheses
+GA12 biosynthesis
+anthocyanin biosynthesis (delphinidin 3-O-glucoside)
+glutathione redox reactions I
+Secondary metabolite biosyntheses
+pinobanksin biosynthesis
+methionine salvage pathway
+calystegine biosynthesis
+aminopropanol biosynthesis
+alanine biosynthesis II
+putrescine biosynthesis III
+chlorophyll a biosynthesis II
+isoleucine biosynthesis from threonine
+carotenoid biosynthesis
+maackiain biosynthesis
+IAA conjugate biosynthesis I
+myo-inositol biosynthesis
+proanthocyanidin biosynthesis from flavanols
+Formation of the ternary complex and subsequently the 43S complex 
+phytocassane biosynthesis
+NAD biosynthesis I (from aspartate)
+Activation of the mRNA upon binding of the cap-binding complex and eIFs and subsequent binding to 43S
+hydroxycinnamic acid serotonin amides biosynthesis
+cytokinins 7-N-glucoside biosynthesis
+histidine biosynthesis I
+glutathione redox reactions II
+Cofactor biosyntheses
+oleoresin sesquiterpene volatiles biosynthesis
+beta-alanine biosynthesis I
+pterocarpan biosynthesis
+homomethionine biosynthesis
+glutamate biosynthesis V
+tetrahydrofolate biosynthesis II
+IAA biosynthesis II 
+6 7 4 -trihydroxyisoflavone biosynthesis
+Translation termination
+monoterpene biosynthesis
+gibberellin biosynthesis I (non C-3
+non C-13 hydroxylation)
+Cellular processes
+Formation of a pool of free 40S subunits
+trans-zeatin biosynthesis
+cellulose biosynthesis
+TCA cycle (plant)
+geranylgeranyldiphosphate biosynthesis II (plastidic)
+tetrahydrofolate biosynthesis I
+Generation of precursor metabolites and energy
+pyridoxal 5'-phosphate biosynthesis
+Oryzalexin S biosynthesis
+phenylalanine biosynthesis I
+Cap-dependent Translation Initiation
+Recycling of eIF2:GDP
+brassinosteroid biosynthesis II
+capsidiol biosynthesis
+glutamate biosynthesis I
+anthocyanin biosynthesis (pelargonidin 3-O-glucoside
+cyanidin 3-O-glucoside)
+9-LOX and 9-HPL pathway
+lactucaxanthin biosynthesis
+homoserine biosynthesis
+pantothenate biosynthesis III
+Ribosomal scanning and start codon recognition
+COPII (Coat Protein 2) Mediated Vesicle Transport
+UDP-L-arabinose biosynthesis II (from L-arabinose)
+crocetin biosynthesis
+glutamate biosynthesis IV
+Beta-alanine Biosynthesis
+Cardiolipin Biosynthesis
+Flowering Time Pathway
+Geranylgeranyldiphosphate biosynthesis II (plastidic)
+Methylerythritol phosphate pathway
+Momilactone Biosynthesis
+Momilactone biosynthesis
+Momilactone biosynthesis
+Network 0
+new test pathway
+Octadecanoid Pathway
+Oryzalexin S biosynthesis
+Polar Auxin Transport
+Seed Development 
+Seed Development 
+Seed Development (Template)
+signal
+Supp.FileS1_input.gpml
+test
+Ureide biosynthesis
